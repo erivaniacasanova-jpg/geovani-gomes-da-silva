@@ -26,7 +26,7 @@ function RegistrationPage() {
 
           <div className="flex justify-center">
             <a
-              href="https://federalassociados.com.br/pbi/cadastro/15972528102025232258"
+              href="https://federalassociados.com.br/pbi/cadastro/110403"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-4 rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200"
